@@ -6,5 +6,11 @@ dist/
 wheels/
 *.egg-info
 
+
 # Virtual environments
 .venv
+
+credentials.json
+token.json
+uv.lock
+pyproject.toml
