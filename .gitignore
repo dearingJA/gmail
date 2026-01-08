@@ -15,3 +15,5 @@ gmail_oauth_token.json
 dev_secrets.py
 uv.lock
 pyproject.toml
+.gitignore
+.python-version
