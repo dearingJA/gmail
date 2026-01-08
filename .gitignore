@@ -10,7 +10,8 @@ wheels/
 # Virtual environments
 .venv
 
-credentials.json
-token.json
+gmail_oauth_client.json
+gmail_oauth_token.json
+dev_secrets.py
 uv.lock
 pyproject.toml
